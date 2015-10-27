@@ -17,4 +17,4 @@ mkdir my_git_project && cd my_git_project
 
 The first step is to initialize Git in a directory. This can be done using the command ```init```, which creates a ```.git``` directory that contains all the Git-related information for your project.
 
-![git init](/img/git_init.png)
+![git init](/GitTutorial/img/git_init.png)
